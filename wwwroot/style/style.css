@@ -1,0 +1,31 @@
+* {
+    vertical-align: top;
+}
+#header {
+    margin:  auto;
+    margin-bottom: 50px;
+    height: 100px;
+    background-color: plum;
+
+}
+
+#header h1 {
+    margin-left: 600px;
+}
+
+#nav {
+    margin-left:590px;
+}
+
+#pic {
+    display: inline-block;
+    margin-left: 300px;
+}
+
+#content {
+    display: inline-block;
+    font-size: 40px;
+    width: 300px;
+    margin-left: 100px;
+
+}
